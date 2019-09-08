@@ -1,0 +1,49 @@
+/* body { font: 12px Arial;}
+
+path {
+  stroke: steelblue;
+  stroke-width: 2;
+  fill: none;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: grey;
+  stroke-width: 1;
+  shape-rendering: crispEdges;
+} */
+#app {
+    padding: 20px;
+    font-family: robot, arial
+  }
+  svg {
+    fill: #000;
+    fill-opacity: 0.3;
+  }
+  
+  path {
+    stroke: steelblue;
+    stroke-width: 2px;
+    fill: none;
+  }
+  
+  .axis {
+    stroke: #000;
+  }
+  
+  .axis-labels text {
+    fill: #000;
+    fill-opacity: 0.9;
+    font-size: 12px;
+    text-anchor: middle;
+  }
+  
+  .axis-labels line {
+    stroke: #000;
+  }
+  
+  .gridline {
+    opacity: 0.2;
+  }
+  
