@@ -1,6 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This is a POC of Wealth Management System which is a MERN Stack application.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br>
+This is a POC of Wealth Management System which is a MERN Stack application.<br>
 It consists of a Home Page, Line Chart and Pie Chart. 
+
+## Instructions to run the App
+
+npm init - to initialize the project<br>
+npm install - to install node dependencies<br>
+npm start - to run the application
 
 ## Available Scripts
 
